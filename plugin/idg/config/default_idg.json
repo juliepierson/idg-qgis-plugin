@@ -4,5 +4,5 @@
   "GéoBretagne": "https://geobretagne.fr/pub/plugin-qgis/config-idg-geobretagne.qgz",
   "Géoplateforme": "https://raw.githubusercontent.com/Geoplateforme/plugin_idg_gpf/master/projet_idg_gpf.qgz",
   "OPenIG": "https://raw.githubusercontent.com/openig/Plugin-QGIS3-OPenIG/master/OPenIG_qgis_plugin.qgs",
-  "indigeo": "https://gitlab.in2p3.fr/letg/idg-qgis-plugin-indigeo/-/raw/main/indigeo_test.qgz"
+  "indigeo": "https://raw.githubusercontent.com/juliepierson/test/master/indigeo_test.qgz"
 }
